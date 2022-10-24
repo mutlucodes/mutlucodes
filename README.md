@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @maydino
-- 👀 I’m interested in iOS Development
-- 🌱 I’m currently learning Core Data
+- 👋 Hi, I’m Mutlu
+- 👀 I’m a iOS Developer
 - 📫 How to reach me [https://www.linkedin.com/in/mutluaydin/]
 
 <!---
