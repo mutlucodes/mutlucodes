@@ -1,6 +1,4 @@
-- 👋 Hi, I’m Mutlu
-
-- I’m an iOS Developer
+- 👋 Hi, I’m Mutlu - I’m an iOS Developer
 
 - 📫 How to reach me: mutluaydin@outlook.com
 
