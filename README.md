@@ -1,9 +1,11 @@
-- 👋 Hi, I’m Mutlu - I’m an iOS Developer
+# 👨‍💻 About Me:
 
-- Looking for an iOS developer position 
-
-- 📫 How to reach me: mutluaydin@outlook.com
-- Connect me: https://www.linkedin.com/in/mutluaydin/
+- 👋 Hi, I’m Mutlu. 
+- 🛠️ I specialize in iOS and front-end development. 
+  - Technologies: Swift, UIKit, SwiftUI, HTML, CSS, JavaScript, SQL...
+- 📦 Some of my projects are showcased below, while others are private.
+- 📫 Reach out to me: [Email](mailto:mutluaydin@outlook.com)
+- 🌐 Connect with me on [LinkedIn](https://www.linkedin.com/in/mutluaydin/)
 
 <!---
 maydino/maydino is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
