@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m Mutlu. 
 - 🛠️ I specialize in iOS development. 
-  - Technologies: Swift, UIKit, SwiftUI, Python
+  - Technologies: Mobile Development, Web Development
 - 📦 Some of my projects are showcased below, while others are private.
 - 📫 Reach out to me: [Email](mailto:mutluaydin@outlook.com)
 - 🌐 Connect with me on [LinkedIn](https://www.linkedin.com/in/mutluaydin/)
